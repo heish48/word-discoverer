@@ -1,10 +1,10 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 9,
 
   "name": "__MSG_appName__",
   "description": "__MSG_appDesc__",
   "default_locale": "en",
-  "version": "2.9.0.2",
+  "version": "9.9.9.9",
   "icons": {
    "48": "result48.png"
   },
